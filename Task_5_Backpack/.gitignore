@@ -1,0 +1,9 @@
+app
+app.exe
+gen
+gen.exe
+*.o
+*.obj
+.vscode/
+transactions.csv
+block.txt
